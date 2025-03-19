@@ -6,7 +6,7 @@
 *.tfstate.backup
 
 # Ignorar diretório de cache do Terraform
-.terraform/
+**/.terraform/*
 
 # Ignorar arquivos de lock do Terraform
 .terraform.lock.hcl
@@ -21,3 +21,4 @@
 *.log
 
 .gitattributes
+
