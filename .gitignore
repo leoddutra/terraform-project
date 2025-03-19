@@ -19,3 +19,5 @@
 
 # Ignorar arquivos de log (se houver)
 *.log
+
+.terraform/providers/
