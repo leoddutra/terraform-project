@@ -9,7 +9,7 @@ Este projeto cria uma infraestrutura básica na AWS usando Terraform, incluindo:
 ## Como Usar
 
 1 - Clone o repositório:
-   git clone https://github.com/seu-usuario/terraform-project.git
+   git clone https://github.com/leoddutra/terraform-project
 
 2 - Em seguida utilize terraform init / terraform plan / terraform -auto-aprove
 
