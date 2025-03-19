@@ -1,0 +1,21 @@
+# Ignorar arquivos de estado do Terraform
+*.tfstate
+*.tfstate.*
+
+# Ignorar arquivos de backup do estado
+*.tfstate.backup
+
+# Ignorar diretório de cache do Terraform
+.terraform/
+
+# Ignorar arquivos de lock do Terraform
+.terraform.lock.hcl
+
+# Ignorar arquivos de planos do Terraform
+*.tfplan
+
+# Ignorar arquivos de variáveis sensíveis
+*.tfvars
+
+# Ignorar arquivos de log (se houver)
+*.log
